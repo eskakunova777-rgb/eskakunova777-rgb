@@ -21,13 +21,14 @@
 | Калькулятор услуг | Приложение для Mac: смета по таблице прайса, работает без интернета | [код](https://github.com/eskakunova777-rgb/service-price-calculator) |
 | PDF-генератор | Чеки и счета из таблицы и HTML-шаблона одной командой | [код](https://github.com/eskakunova777-rgb/pdf-generator) |
 | Мини-проекты на Python | Органайзер для календаря, напоминалка, хранилище паролей | [код](https://github.com/eskakunova777-rgb/python-mini-projects) |
+| ИИ-помощник по заявкам | Разбирает заявку, маскирует персональные данные перед отправкой в нейросеть, создаёт лид в Битрикс24 и уведомляет менеджера. Node.js | [код](https://github.com/eskakunova777-rgb/ai-lead-assistant) |
 | Лендинг гайда «Видео-отдел» | Продающая страница с формой заявок и оплатой | [сайт](https://videootdel.evskakunova-ai.ru) |
 | Сбор заказов с бирж фриланса | Ежедневно собирает заказы, фильтрует по бюджету и конкуренции, присылает карточки в Telegram (n8n) | закрытый, покажу по запросу |
 | Конвейер Pinterest → Etsy | Проект клиента: таблица → генерация → проверка → автопубликация | закрытый, покажу по запросу |
 
 ## Стек
 
-Claude Code · Codex · n8n · Make · ChatPlace · Node.js · Python · SQLite · Docker · Prodamus · Telegram Bot API · VK API · Google Sheets API
+Claude Code · Codex · n8n · Make · ChatPlace · Битрикс24 · Node.js · Python · SQLite · Docker · Prodamus · Telegram Bot API · VK API · Google Sheets API
 
 ## Контакты
 
